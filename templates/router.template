@@ -1,0 +1,44 @@
+const {{replace}} = require('./{{replace}}-model')
+const router = require('express').Router()
+
+router.post('/{{replace}}', (req, res) => {
+  {{replace}}.create(req.body, (err, {{replace}}) => {
+    if (err)
+      res.send(err)
+    res.json({ 'success': 'Created successfully' })
+  })
+})
+
+router.get('/{{replace}}', (req, res) => {
+  {{replace}}.find(function (err, {{replace}}) {
+    if (err)
+      res.send(err)
+    res.json({{replace}});
+  });
+})
+
+router.put('/{{replace}}/:id', (req, res) => {
+  {{replace}}.findByIdAndUpdate(req.params.id, req.body, (err, {{replace}}) => {
+    if (err) throw err;
+    res.json({ 'success': 'Updated successfully' })
+  });
+})
+
+router.patch('/{{replace}}/:id', (req, res) => {
+  {{replace}}.findByIdAndUpdate(req.params.id, req.body, (err, {{replace}}) => {
+    if (err) throw err;
+    res.json({ 'success': 'Updated successfully' })
+  });
+})
+
+router.delete('/{{replace}}/:id', (req, res) => {
+  {{replace}}.remove({
+    _id: req.params.id
+  }, function (err) {
+    if (err)
+      res.send(err);
+    res.json({ 'success': 'Deleted successfully' })
+  });
+})
+
+module.exports = router

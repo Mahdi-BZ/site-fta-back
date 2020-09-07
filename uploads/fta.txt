@@ -1,0 +1,142 @@
+   "_id": "5e7b3b4a3ea7b243403cd3c7",
+        "name": "Cross Country",
+        "type": "cross",
+        "image": "image1.jpg",
+        "description": [
+            {
+                "table": [
+                    {
+                        "titre1": "categorie",
+                        "titre2": "oct-nov",
+                        "titre3": "dec",
+                        "titre4": "jan",
+                        "titre5": "champ"
+                    },
+                    {
+                        "titre1": "Minimes 2 Filles et garçons",
+                        "titre2": "3 km",
+                        "titre3": "3 km",
+                        "titre4": "3.5 km",
+                        "titre5": "3.5 km"
+                    },
+                    {
+                        "titre1": "Cadettes",
+                        "titre2": "3 km",
+                        "titre3": "3 km",
+                        "titre4": "3.5 km",
+                        "titre5": "3.5 km"
+                    },
+                    {
+                        "titre1": "Cadets",
+                        "titre2": "4 km",
+                        "titre3": "4 km",
+                        "titre4": "4.5 km",
+                        "titre5": "5 km"
+                    },
+                    {
+                        "titre1": "Juniors filles",
+                        "titre2": "4 km",
+                        "titre3": "5 km",
+                        "titre4": "5 km",
+                        "titre5": "5 km"
+                    },
+                    {
+                        "titre1": "Juniors garçons",
+                        "titre2": "6 km + Cross court 4 km",
+                        "titre3": "6 km",
+                        "titre4": "7 km",
+                        "titre5": "7 km"
+                    },
+                    {
+                        "titre1": "Seniors filles",
+                        "titre2": "5 km",
+                        "titre3": "6 km",
+                        "titre4": "7 km",
+                        "titre5": "7 km"
+                    },
+                    {
+                        "titre1": "Seniors garçons",
+                        "titre2": "8 km + Cross court 4 km",
+                        "titre3": "9 km",
+                        "titre4": "9 km",
+                        "titre5": "10 km"
+                    },
+                    {
+                        "titre1": "Juniors Seniors Garçons",
+                        "titre2": "",
+                        "titre3": "",
+                        "titre4": "",
+                        "titre5": "Cross court 4 km Catégorie unique (Ouvert)"
+                    },
+                    {
+                        "titre1": "Masters Hommes et Dames",
+                        "titre2": "",
+                        "titre3": "",
+                        "titre4": "",
+                        "titre5": "5 km Catégorie Unique Mixte hommes et dames (Ouvert)"
+                    }
+                ],
+                "_id": "5e7b3b4a3ea7b243403cd3c8",
+                "titre": "Les distances des Compétitions de Cross-country"
+            },
+            {
+                "table": [
+                    {
+                        "titre1": "categories",
+                        "titre2": "engagement",
+                        "titre3": "classement"
+                    },
+                    {
+                        "titre1": "Minimes 2 garçons et filles",
+                        "titre2": "Minimum 06",
+                        "titre3": "06"
+                    },
+                    {
+                        "titre1": "Cadettes",
+                        "titre2": "Minimum 04",
+                        "titre3": "04"
+                    },
+                    {
+                        "titre1": "Cadets",
+                        "titre2": "Minimum 04",
+                        "titre3": "04"
+                    },
+                    {
+                        "titre1": "Juniors filles",
+                        "titre2": "Minimum 04",
+                        "titre3": "04"
+                    },
+                    {
+                        "titre1": "Juniors garçons",
+                        "titre2": "Minimum 04",
+                        "titre3": "04"
+                    },
+                    {
+                        "titre1": "Seniors filles",
+                        "titre2": "Minimum 04",
+                        "titre3": "04"
+                    },
+                    {
+                        "titre1": "Seniors garçons",
+                        "titre2": "Minimum 04",
+                        "titre3": "04"
+                    }
+                ],
+                "_id": "5e7b3b4a3ea7b243403cd3c9",
+                "titre": "Classement par Equipes lors de toutes les compétitions de Cross Country Y compris les championnats de Tunisie"
+            },
+            {
+                "table": [
+                    {
+                        "titre1": "qualifications",
+                        "titre2": "reglementEtRecompenses"
+                    },
+                    {
+                        "titre1": "Seront qualifiés aux championnats nationaux  de cross les 80% des participants Individuels,sauf pour les seniors tous les participants seront qualifiés \n Pour les minimes (1) les trois premiers de chaque ligue seront qualifiés à la finale avec les minimes (2) \n ",
+                        "titre2": "Le classement Individuel : il y’aura un classement individuel pour les 3 premiers \n de chaque catégorie \n -Le classement par équipes  sera fait selon le total des points sur la base du classement individuel pour chaque catégorie et   comme suit :\n Minimes 2 sur les 06 meilleurs classés de chaque équipe \n Cadets sur les 04 meilleurs classés de chaque équipe \n juniors  sur les 04 meilleurs classés de chaque équipe \n Seniors  sur les 04 meilleurs classés de chaque équipe \n -03 coupes seront attribuées pour les 03 premiers clubs dans chaque catégorie \n -Un challenge Hommes et un challenge Dames seront attribués aux premiers clubs sur la base du total de classement des équipes (1,2,3…) 6 catégories \n -Seuls les clubs classés par équipe dans toutes les catégories seront tenus en compte au challenge \n NB : le club qui aura totalisé le plus petit nombre de points sera déclaré 1er et aura le \n challenge \n"
+                    }
+                ],
+                "_id": "5e7b3b4a3ea7b243403cd3ca",
+                "titre": "Qualification et récompenses"
+            }
+        ]
