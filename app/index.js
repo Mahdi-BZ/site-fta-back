@@ -18,7 +18,7 @@ app.use((req, res, next) => {
     );
     next();
 });
-app.use("/uploads", express.static("uploads"));
+app.use("/uploads", express.static("../uploads"));
 
 app.use('/api', require('./example/router'));
 app.use('/api', require('./reglements/router'));
