@@ -40,6 +40,7 @@ app.use('/api', require('./athlete/router'));
 app.use('/api', require('./membre_commission/router'));
 app.use('/api', require('./membre_affiliation/router'));
 app.use('/api', require('./worker/router'));
+app.use('/api', require('./galerie/router'));
 
 app.use('/api', require('./example/router'));
 app.use('/api', require('./competition/router'));
