@@ -4,7 +4,7 @@ const router = require('express').Router()
 router.post('/galerie', (req, res) => {
   galerie.create(req.body, (err, galerie) => {
     if (err)
-      res.send(err)
+      res.send(err);
     res.json({ 'success': 'Created successfully' })
   })
 })
@@ -12,7 +12,7 @@ router.post('/galerie', (req, res) => {
 router.get('/galerie', (req, res) => {
   galerie.find(function (err, galerie) {
     if (err)
-      res.send(err)
+      res.send(err);
     res.json(galerie);
   });
 })
